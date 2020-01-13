@@ -3,7 +3,7 @@ Creating a Dashboard in Tableau Public
 
 I have watched a video on https://public.tableau.com/en-us/s/resources regarding Tableau Dashboard. I am just recreating what I have learnt in that video.
 
-Youtube video link : https://youtu.be/LdMisLkDcg0
+Youtube video link : https://youtu.be/MOf-p91Arhg
 
 There are several products offered by Tableau like 
 
